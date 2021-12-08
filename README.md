@@ -1,2 +1,2 @@
 # grootTranslator
-Basically web app which translates to groot's language
+Basically a web app which translates to groot's language
